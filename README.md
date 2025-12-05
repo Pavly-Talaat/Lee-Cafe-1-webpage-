@@ -15,6 +15,6 @@
 
 ## ازاي تشغلي الموقع في 10 ثواني؟
 ```bash
-git clone https://github.com/yourusername/layla-cafe.git
+git clone https://github.com/Pavly-Talaat/Lee-Cafe-1-webpage-.git
 cd layla-cafe
 # افتحي ملف ليلى كافيه-Layla Cafe.html في أي متصفح وخ
